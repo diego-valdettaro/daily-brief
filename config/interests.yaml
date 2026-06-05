@@ -1,0 +1,26 @@
+profile:
+  name: Diego
+  timezone: Europe/Amsterdam
+  language: es
+
+interests:
+  - inteligencia artificial aplicada
+  - tecnologia con impacto operativo
+  - pagos y fintech
+  - mercados, economia e inversiones
+  - regulacion tecnologica
+  - productividad, data y automatizacion
+
+rules:
+  max_news: 5
+  lookback_hours: 72
+  prefer_recent: true
+  avoid:
+    - rumores sin fuente confiable
+    - deals de consumo sin impacto estrategico
+    - clickbait
+    - notas repetidas sobre el mismo evento
+  target_mix:
+    technology_ai: 2
+    economy_markets: 2
+    regulation_context: 1
