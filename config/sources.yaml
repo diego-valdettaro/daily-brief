@@ -1,0 +1,37 @@
+sources:
+  - name: Ars Technica
+    type: rss
+    url: https://feeds.arstechnica.com/arstechnica/index
+    enabled: true
+  - name: The Verge
+    type: rss
+    url: https://www.theverge.com/rss/index.xml
+    enabled: true
+  - name: TechCrunch
+    type: rss
+    url: https://techcrunch.com/feed/
+    enabled: true
+  - name: Wired
+    type: rss
+    url: https://www.wired.com/feed/rss
+    enabled: true
+  - name: NYTimes Technology
+    type: rss
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    enabled: true
+  - name: Bloomberg Markets
+    type: rss
+    url: https://feeds.bloomberg.com/markets/news.rss
+    enabled: true
+  - name: Xataka
+    type: rss
+    url: https://www.xataka.com/feedburner.xml
+    enabled: true
+  - name: Genbeta
+    type: rss
+    url: https://www.genbeta.com/feedburner.xml
+    enabled: true
+  - name: El Pais Tecnologia
+    type: rss
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada
+    enabled: true
